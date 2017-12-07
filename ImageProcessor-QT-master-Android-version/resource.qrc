@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Materials/Crop-tool-icon.png</file>
+        <file>Materials/Cursor-Select-icon.png</file>
+        <file>Materials/Folder-Open-icon.png</file>
+        <file>Materials/Redo-icon.png</file>
+        <file>Materials/Reset-icon.png</file>
+        <file>Materials/rotate-icon.png</file>
+        <file>Materials/Save-icon.png</file>
+        <file>Materials/Undo-icon.png</file>
+        <file>Materials/Zoom-In-icon.png</file>
+        <file>Materials/Zoom-Out-icon.png</file>
+        <file>Materials/Pictures-Canon-icon.png</file>
+    </qresource>
+</RCC>

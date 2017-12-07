@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>img/full-size.png</file>
+        <file>img/magnifier.png</file>
+        <file>img/normal.png</file>
+        <file>img/selection-box.png</file>
+        <file>img/restore.png</file>
+        <file>img/crop-tool.png</file>
+        <file>img/redo.png</file>
+        <file>img/undo.png</file>
+    </qresource>
+</RCC>
